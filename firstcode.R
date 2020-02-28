@@ -17,3 +17,5 @@
 # make changes to code etc and save as usual along the way
 
 # once finished: top right panel: git tab - select 'staged' then commit 
+
+# write commit message: overview of changes, then commit and push ! 
